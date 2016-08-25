@@ -11,4 +11,4 @@ El costo total de una llamada telefónica determinada por su duración y el cost
 
 ##image
 
-![imagen diagrama de flujo]()
+![imagen diagrama de flujo](http://1.1m.yt/7QIrRfG.jpg)
